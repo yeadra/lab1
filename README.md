@@ -1,3 +1,3 @@
 # lab1
-$g++ lab1.cpp \n
+$g++ lab1.cpp 
 $./a.out
